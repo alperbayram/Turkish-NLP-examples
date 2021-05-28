@@ -1,6 +1,6 @@
 
 
-# Natural language Processing
+# Natural Language Processing
 Machine Learning
 Usage and examples of BERT models
 
