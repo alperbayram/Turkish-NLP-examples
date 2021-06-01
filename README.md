@@ -2,8 +2,8 @@
 
 
 # Natural Language Processing
-Machine Learning
-Usage and examples of BERT models
+#Machine Learning
+Usage and examples of BERT models for Turkish. Scraping without using Twitter's API.
 
 🚧 
 | number  | examples | 
