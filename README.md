@@ -6,7 +6,7 @@
 Usage and examples of BERT models for Turkish. Scraping without using Twitter's API.
 🚧 
 | number  | examples | kaggle|
-| ------------- | ------------- |
+| ------------- | ------------- |----------|
 | Nr.1| [wordcloud](https://github.com/alperbayram/Turkish-NLP-examples/blob/main/wordcloud.ipynb)|  |
 | Nr.2 | [BERT-Sentiment-Analysis](https://github.com/alperbayram/Turkish-NLP-examples/blob/main/BERT_Sentiment_Analysis.ipynb)| [kaggle](https://www.kaggle.com/devalper/bert-sentiment-analysis) |
 | Nr.3 | [BERT-Text-classification](https://github.com/alperbayram/Turkish-NLP-examples/blob/main/BERT_Text_classification.ipynb)| [kaggle](https://www.kaggle.com/devalper/bert-text-classification) |
